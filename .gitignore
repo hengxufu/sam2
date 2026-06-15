@@ -9,5 +9,5 @@ _C.*
 outputs/*
 checkpoints/*.pt
 demo/backend/checkpoints/*.pt
-.src/
-.100CANON/
+src/*
+100CANON/*
